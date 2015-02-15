@@ -1,0 +1,6 @@
+title_activity_list_wifititle_activity_list_wifititle_activity_list_wifi<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiConnection</string>
+
+</resources>

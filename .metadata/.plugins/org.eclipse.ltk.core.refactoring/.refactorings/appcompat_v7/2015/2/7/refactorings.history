@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;R.java&apos; to &apos;WifiConnection/gen/com.dvn.wificonnection&apos;&#x0D;&#x0A;- Original project: &apos;appcompat_v7&apos;&#x0D;&#x0A;- Destination element: &apos;WifiConnection/gen/com.dvn.wificonnection&apos;&#x0D;&#x0A;- Original element: &apos;android.support.v7.appcompat.R.java&apos;" description="Copy compilation unit" destination="=WifiConnection/gen&lt;com.dvn.wificonnection" element1="/gen&lt;android.support.v7.appcompat{R.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1424034705749" units="1" version="1.0"/>
+</session>
