@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiConnection</string>
+	<string name="wifi_list">WiFi Details List</string>
+	<string name="actions_search">Actions Search</string>
+	<string name="actions_settings">Actions Settings</string>
+</resources>
